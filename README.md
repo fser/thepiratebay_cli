@@ -12,10 +12,12 @@ the magnet link for, and you're done.
 Sample output
 -------------
 
+```no-highlight
 $ python client.py big buck bunny
 23 match found.
++----+-----------------------------------------------------------------+----+----+
 | id |                               desc                              | se | le |
-|----|-----------------------------------------------------------------|----|----|
++----+-----------------------------------------------------------------+----+----+
 | 0  |                       Big Buck Bunny 1080p                      | 5  | 1  |
 | 1  |                 Big.Buck.Bunny.BDRip.XviD-MEDiC                 | 3  | 1  |
 | 2  |                     big-buck-bunny-NTSC.iso                     | 1  | 1  |
@@ -39,8 +41,8 @@ $ python client.py big buck bunny
 | 20 |         Big_Buck_Bunny_1080p_surround_FrostWire.com.avi         | 0  | 1  |
 | 21 |                      big-buck-bunny-PAL.iso                     | 0  | 1  |
 | 22 |        Big Buck Bunny 2008 720p BluRay x264-DON(No Rars)        | 0  | 1  |
-
++----+-----------------------------------------------------------------+----+----+
 which ID(s) (separated by spaces)? 0
 magnet:?xt=urn:btih:88b2c9fa7d3493b45130b2907d9ca31fdb8ea7b9&dn=Big+Buck+Bunny+1080p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
-
+```
 

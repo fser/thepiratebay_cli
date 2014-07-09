@@ -3,7 +3,7 @@
 import sys, urllib2, prettytable, itertools
 from BeautifulSoup import BeautifulSoup
 
-DOMAIN = 'http://thepiratebay.pe'
+DOMAIN = 'http://thepiratebay.se'
 BASE_URL = DOMAIN + '/s/?q=%s'
 
 def list_all_page_results(pattern):
